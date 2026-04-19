@@ -1,0 +1,25 @@
+# Netflix Data Analysis (Python)
+
+## 📌 Project Overview
+This project analyzes Netflix dataset to understand content distribution and ratings.
+
+## 🧰 Tools Used
+- Python
+- Pandas
+
+## 🔍 Analysis Performed
+- Total number of records
+- Content type analysis (Movies vs TV Shows)
+- Rating distribution analysis
+
+## 📈 Insights
+- Number of Movies vs TV Shows
+- Most common ratings on Netflix
+
+## 🤖 AI Usage
+Used AI tools to understand Python code and improve analysis logic.
+
+## 📁 FilesC:
+
+- NetFlix.csv
+- analysis.py
